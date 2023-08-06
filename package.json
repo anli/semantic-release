@@ -1,0 +1,14 @@
+{
+  "name": "semantic-release",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "release": "source .env.local && GITHUB_TOKEN=$GITHUB_TOKEN npx semantic-release"
+  },
+  "devDependencies": {
+    "semantic-release": "^21.0.7"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
