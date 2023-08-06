@@ -1,6 +1,6 @@
 {
   "name": "semantic-release",
-  "version": "0.1.0",
+  "version": "16.2.0",
   "private": true,
   "scripts": {
     "release": "source .env.local && GITHUB_TOKEN=$GITHUB_TOKEN npx semantic-release"
