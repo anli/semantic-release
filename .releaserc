@@ -1,8 +1,8 @@
 {
   "branches": [
     {
-      "name": "release/v+([0-9])?(.{+([0-9]),x}).x",
-      "range": "${name.replace(/^release/v\\//g, '')}"
+      "name": "release/v+([0-9]).+([0-9])",
+      "range": "${name.replace(/^release\\/v/, '')}"
     },
     {
       "name": "main"
