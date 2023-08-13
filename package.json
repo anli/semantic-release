@@ -7,6 +7,8 @@
     "release:debug": "source .env.local && GITHUB_TOKEN=$GITHUB_TOKEN DEBUG=semantic-release* npx semantic-release"
   },
   "devDependencies": {
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
     "semantic-release": "^21.0.7"
   },
   "engines": {
