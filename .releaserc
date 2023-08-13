@@ -5,7 +5,12 @@
       "range": "${name.replace(/^release\\/v/, '')}"
     },
     {
-      "name": "main"
+      "name": "main",
+      "prerelease": "alpha"
+    },
+    {
+      "name": "staging",
+      "prerelease": "beta"
     }
   ],
   "plugins": [
