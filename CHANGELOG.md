@@ -1,3 +1,15 @@
+# [1.1.0-alpha.3](https://github.com/anli/semantic-release/compare/v1.1.0-alpha.2...v1.1.0-alpha.3) (2023-08-13)
+
+
+### Bug Fixes
+
+* **b1:** add ([5ed6ce3](https://github.com/anli/semantic-release/commit/5ed6ce3d2d8ceb0e4c33f34660715abb4e8afcbe))
+
+
+### Features
+
+* **b2:** add ([9dacb4b](https://github.com/anli/semantic-release/commit/9dacb4b429c7038747af7dfec44f91e959b49b82))
+
 # [1.1.0-beta.1](https://github.com/anli/semantic-release/compare/v1.0.0...v1.1.0-beta.1) (2023-08-13)
 
 
